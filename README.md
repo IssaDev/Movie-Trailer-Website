@@ -1,4 +1,4 @@
-#Movie Trailer
+# Movie Trailer
 Displays a list of movies with their cover art and plays the movies trailer when selected
 
 ## Requirements
